@@ -1,2 +1,2 @@
 # Publications
-Dokuments and Publications
+Documents and Publications
